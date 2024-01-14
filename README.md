@@ -11,6 +11,8 @@ I'm currently focusing on improving my skills in:
 - Exploring the latest features and updates in Next.js and React.js.
 - Python
 - Generative AI
+- flutter
+- dart
 - Advanced web development technologies
   
 ## 🔧 Technologies & Tools
