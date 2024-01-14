@@ -24,10 +24,21 @@ Here are some of the technologies and tools I frequently use:
 
 ## 📈 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true)](https://github.com/Ibrahim-Asghar)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?Ibrahim-Asghar=Ibrahim-Asghar&show_icons=true&count_private=true)](https://github.com/Ibrahim-Asghar)
 
 ## 📫 Contact Me
 
-Feel free to reach out to me via [email](m.ibrahim.asgharali7@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/muhammad-ibrahim-asghar-195a6128a).
+Feel free to reach out to me via 
+
+<a href="www.linkedin.com/in/muhammad-ibrahim-asghar-195a6128a">
+  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/muhammaad_bilal_rehman/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/bilal.rehman.1291">
+  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
 
 Happy coding! 😊
