@@ -34,7 +34,7 @@ Here are some of the technologies and tools I frequently use:
 </a>
 </br>
 </br>
-<a href="www.linkedin.com/in/muhammad-ibrahim-asghar-195a6128a">
+<a href="https://www.linkedin.com/in/muhammad-ibrahim-asghar-195a6128a">
   <img  alt="LinkdeIn" width="30px" src="https://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" />
 </a>
 
