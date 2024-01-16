@@ -28,15 +28,23 @@ Here are some of the technologies and tools I frequently use:
   <br/>
 ## 📫 Contact Me
 
+<p align="center">
+<a href="https://portfolio-site-with-sanity-and-nextjs.vercel.app/">
+  <img  alt="portfolio" width="30px" src="https://portfolio-site-with-sanity-and-nextjs.vercel.app/" />
+</a>
+  
 <a href="www.linkedin.com/in/muhammad-ibrahim-asghar-195a6128a">
-  <img align="left" alt="LinkdeIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img  alt="LinkdeIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+
 <a href="https://www.instagram.com/_ibrahim_asghar/">
-  <img align="left" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img  alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+
 <a href="https://www.facebook.com/profile.php?id=100041480435211">
-  <img align="left" alt="Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img  alt="Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+</p>
 <br/>
 
 
