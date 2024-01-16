@@ -1,4 +1,4 @@
-# Hello, I'm Muhammad Ibrahim ! 👋
+# Hello, I'm Muhammad Ibrahim  👋
 
 Welcome to my GitHub profile! I'm a passionate web developer, specializing in front-end development with Next.js and React.js. I enjoy creating interactive and user-friendly web applications.
 
