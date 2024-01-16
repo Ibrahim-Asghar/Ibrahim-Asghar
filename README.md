@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate web developer, specializing in front-end development with Next.js and React.js. I enjoy creating interactive and user-friendly web applications.
 
-<img src="" alt="banner">
+<img src="./200w.gif" alt="banner">
 
 ## 🌱 Currently Learning
 
