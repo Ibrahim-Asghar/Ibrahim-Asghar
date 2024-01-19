@@ -70,4 +70,4 @@ Here are some of the technologies and tools I frequently use:
 
 
 
-# Happy coding 😊
+Happy coding 😊
