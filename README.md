@@ -29,7 +29,7 @@ Here are some of the technologies and tools I frequently use:
 ## 📫 Contact Me
 
 <p align="center">
-<a href="https://portfolio-site-with-sanity-and-nextjs.vercel.app/">
+<a href="https://muhammad-ibrahim.vercel.app/">
   <img  alt="Portfolio" width="30px" src="https://portfolio-site-with-sanity-and-nextjs.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.b6465c73.png&w=384&q=75" />
 </a>
 </br>
