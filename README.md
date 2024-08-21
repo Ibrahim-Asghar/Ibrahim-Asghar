@@ -1,52 +1,59 @@
-# Hello, I'm Muhammad Ibrahim  👋
+# Hello, I'm Muhammad Ibrahim 👋
 
-Welcome to my GitHub profile! I'm a passionate web developer, specializing in front-end development with Next.js and React.js. I enjoy creating interactive and user-friendly web applications.
+Welcome to my GitHub profile! I'm a passionate web and mobile app developer specializing in **cross-platform development** with **Flutter** and **Dart**, as well as modern web technologies like **Next.js** and **React.js**. My goal is to build high-quality, user-centric applications that deliver seamless experiences across all devices.
 
-<img src="./coding.gif" alt="banner">
+<img src="./coding.gif" alt="banner" style="max-width: 100%; height: auto;">
+
+## 🚀 What I Do
+
+- **Cross-Platform Mobile Development**: Creating natively compiled applications for mobile, web, and desktop using **Flutter** and **Dart**.
+- **Front-End Web Development**: Building dynamic, responsive web applications with **Next.js** and **React.js**.
+- **Performance Optimization**: Ensuring fast, efficient, and smooth performance in both web and mobile applications.
+- **Exploring Innovations**: Diving into **Generative AI** and other cutting-edge technologies to enhance my development skills.
 
 ## 🌱 Currently Learning
 
-I'm currently focusing on improving my skills in:
+I’m expanding my skills in:
 
-- Building responsive and accessible user interfaces.
-- Optimizing performance in web applications.
-- Exploring the latest features and updates in Next.js and React.js.
-- Python
-- Generative AI
-- flutter
-- dart
-- Advanced web development technologies
-  
+- **Advanced Flutter**: Mastering complex UI and performance optimization for mobile and web applications.
+- **Next.js** and **React.js**: Staying updated with the latest features and best practices.
+- **Python**: Exploring its applications in data science and machine learning.
+- **Generative AI**: Understanding and leveraging its capabilities.
+- **Advanced Web Technologies**: Enhancing my knowledge in modern web development trends.
+
 ## 🔧 Technologies & Tools
 
-Here are some of the technologies and tools I frequently use:
+Here's a snapshot of the technologies and tools I frequently use:
 
-- **Next.js:** For building modern, server-rendered React applications.
-- **React.js:** A JavaScript library for building user interfaces.
-- **HTML/CSS/JavaScript:** The fundamental building blocks of the web.
-- **VS Code:** My preferred code editor.
-  <br/>
-## 📫 Contact Me
+- **Flutter**: Building beautiful and performant cross-platform apps.
+- **Dart**: The language behind Flutter for efficient and effective app development.
+- **Next.js**: For creating server-rendered React applications.
+- **React.js**: A library for building interactive UIs.
+- **HTML/CSS/JavaScript**: The core technologies for web development.
+- **VS Code**: My preferred code editor for a streamlined development workflow.
+
+## 📫 Get in Touch
+
+Feel free to connect with me through the following platforms:
 
 <p align="center">
-<a href="https://muhammad-ibrahim.vercel.app/">
-  <img  alt="Portfolio" width="30px" src="https://muhammad-ibrahim.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.b6465c73.png&w=640&q=75" />
-</a>
-</br>
-</br>
-<a href="https://www.linkedin.com/in/muhammad-ibrahim-asghar-195a6128a">
-  <img  alt="LinkdeIn" width="30px" src="https://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" />
-</a>
-
-<a href="https://www.instagram.com/_ibrahim_asghar/">
-  <img  alt="Instagram" width="60px" src="https://1000logos.net/wp-content/uploads/2017/02/Instagram-Logo.png" />
-</a>
-
-<a href="https://www.facebook.com/profile.php?id=100041480435211">
-  <img  alt="Facebook" width="30px" src="https://store-images.s-microsoft.com/image/apps.37935.9007199266245907.b029bd80-381a-4869-854f-bac6f359c5c9.91f8693c-c75b-4050-a796-63e1314d18c9?h=464" />
-</a>
+  <a href="https://muhammad-ibrahim.vercel.app/">
+    <img alt="Portfolio" width="30px" src="https://muhammad-ibrahim.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.b6465c73.png&w=640&q=75" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-ibrahim-asghar-195a6128a">
+    <img alt="LinkedIn" width="30px" src="https://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" />
+  </a>
+  <a href="https://www.instagram.com/_ibrahim_asghar/">
+    <img alt="Instagram" width="60px" src="https://1000logos.net/wp-content/uploads/2017/02/Instagram-Logo.png" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100041480435211">
+    <img alt="Facebook" width="30px" src="https://store-images.s-microsoft.com/image/apps.37935.9007199266245907.b029bd80-381a-4869-854f-bac6f359c5c9.91f8693c-c75b-4050-a796-63e1314d18c9?h=464" />
+  </a>
+  <a href="https://wa.me/+923160105892">
+    <img alt="WhatsApp" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPADVMClbsK0sjUlU7iTXpQ7krJwQfTW_ezg&s" />
+  </a>
 </p>
-</br>
+
 
 
 ## Languages and Tools
