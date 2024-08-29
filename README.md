@@ -1,4 +1,4 @@
-<img src="./coding.gif" alt="banner" style="max-width: 100%; height: auto;">
+<img src="./Ibrahim LinkedIn Banner.png" alt="banner" style="max-width: 100%; height: auto;">
 
 # Hello, I'm Muhammad Ibrahim 👋
 
