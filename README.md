@@ -1,3 +1,5 @@
+<img src="./coding.gif" alt="banner" style="max-width: 100%; height: auto;">
+
 # Hello, I'm Muhammad Ibrahim 👋
 
 Welcome to my GitHub profile! I'm a passionate web and mobile app developer specializing in **cross-platform development** with **Flutter** and **Dart**, as well as modern web technologies like **Next.js** and **React.js**. My goal is to build high-quality, user-centric applications that deliver seamless experiences across all devices.
