@@ -44,7 +44,7 @@ Feel free to connect with me through the following platforms:
     <img alt="WhatsApp" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPADVMClbsK0sjUlU7iTXpQ7krJwQfTW_ezg&s" />
   </a>
 
-  <a href="https://www.linkedin.com/in/muhammad-ibrahim-asghar-195a6128a">
+  <a href="https://www.linkedin.com/in/muhammad-ibrahim-asghar">
     <img alt="LinkedIn" width="30px" src="https://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" />
   </a>
    
