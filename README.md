@@ -39,21 +39,25 @@ Here's a snapshot of the technologies and tools I frequently use:
 Feel free to connect with me through the following platforms:
 
 <p align="center">
-  <a href="https://muhammad-ibrahim.vercel.app/">
-    <img alt="Portfolio" width="30px" src="https://muhammad-ibrahim.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.b6465c73.png&w=640&q=75" />
+
+ <a href="https://wa.me/+923160105892">
+    <img alt="WhatsApp" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPADVMClbsK0sjUlU7iTXpQ7krJwQfTW_ezg&s" />
   </a>
+
   <a href="https://www.linkedin.com/in/muhammad-ibrahim-asghar-195a6128a">
     <img alt="LinkedIn" width="30px" src="https://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X" />
   </a>
-  <a href="https://www.instagram.com/_ibrahim_asghar/">
-    <img alt="Instagram" width="60px" src="https://1000logos.net/wp-content/uploads/2017/02/Instagram-Logo.png" />
+   
+   <a href="https://muhammad-ibrahim.vercel.app/">
+    <img alt="Portfolio" width="30px" src="https://muhammad-ibrahim.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.b6465c73.png&w=640&q=75" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100041480435211">
     <img alt="Facebook" width="30px" src="https://store-images.s-microsoft.com/image/apps.37935.9007199266245907.b029bd80-381a-4869-854f-bac6f359c5c9.91f8693c-c75b-4050-a796-63e1314d18c9?h=464" />
   </a>
-  <a href="https://wa.me/+923160105892">
-    <img alt="WhatsApp" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPADVMClbsK0sjUlU7iTXpQ7krJwQfTW_ezg&s" />
+  <a href="https://www.instagram.com/_ibrahim_asghar/">
+    <img alt="Instagram" width="30px" src="https://img.freepik.com/premium-vector/instagram-icon-paper-cut-style-social-media-icons_505135-235.jpg" />
   </a>
+ 
 </p>
 
 
