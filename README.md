@@ -49,7 +49,7 @@ Feel free to connect with me through the following platforms:
   </a>
    
    <a href="https://muhammad-ibrahim.vercel.app/">
-    <img alt="Portfolio" width="30px" src="https://muhammad-ibrahim.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.b6465c73.png&w=640&q=75" />
+    <img alt="Portfolio" width="30px" src="[https://muhammad-ibrahim.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.b6465c73.png&w=640&q=75](https://muhammad-ibrahim.vercel.app/_next/image?url=%2Fimages%2FIA.png&w=384&q=75)" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100041480435211">
     <img alt="Facebook" width="30px" src="https://store-images.s-microsoft.com/image/apps.37935.9007199266245907.b029bd80-381a-4869-854f-bac6f359c5c9.91f8693c-c75b-4050-a796-63e1314d18c9?h=464" />
